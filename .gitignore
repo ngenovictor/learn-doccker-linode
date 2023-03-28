@@ -1,0 +1,4 @@
+*.pyc
+env
+pass
+**/__pycache__/**
